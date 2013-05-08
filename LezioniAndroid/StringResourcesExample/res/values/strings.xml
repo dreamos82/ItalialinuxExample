@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StringResourcesExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="example">String Example</string>
+    <string name="secondexample">This is a second string example</string>
+    <string name="resourceexample">Hi, i\'m a resource string!</string>
+</resources>
