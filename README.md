@@ -3,5 +3,6 @@ Questo repository verra utilizzato come supporto per gli esempi nel sito italial
 Di seguito l'elenco delle lezioni disponibili:
 * SMSExample - Un applicazione di esempio per l'invio di SMS (Lezione 10: http://goo.gl/8ippO)
 * SMSRecvExample - Un applicazione di esempio per la ricezione degli SMS (Lezione 11: http://goo.gl/gURiv)
+* StringResourcesExample - Un applicazione per mostrare come gestire le stringhe e la localizzazione (http://goo.gl/aGhbq)
 
 --inuyasha82
